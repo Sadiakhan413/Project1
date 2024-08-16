@@ -80,18 +80,26 @@ span:hover
     text-decoration: underline;
     color: crimson;
 }
+#waht-we-do
+{
+    background-color:rgb(95, 132, 128);
+}
 #contact{
+    padding-left: 5%;
     background-color: rgb(116, 116, 116);
+    font-size: x-small;
 }
 #contact h1{
     text-align: center;
 }
-.row h1{
+#waht-we-do h1{
     text-align: center;
 }
-.row p{
+#waht-we-do p{
+    padding: 5%;
     text-align: center;
+    font-size: small;
 }
-.row h3{
-    text-align: center;
+.row img{
+    border-radius: 30%;
 }

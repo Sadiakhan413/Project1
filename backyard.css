@@ -109,7 +109,9 @@ text-align: center;
     align-content: center;
         }
         #contact{
+            padding-left: 5%;
             background-color: rgb(116, 116, 116);
+            font-size: x-small;
         }
         #contact h1{
             text-align: center;
