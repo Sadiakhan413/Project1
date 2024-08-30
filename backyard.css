@@ -112,6 +112,7 @@ text-align: center;
 }
 
 .gallery{
+    margin-top: 5%;
     display: grid;
     grid-template-columns: 20% 20% 20%  20% ;
     justify-content: space-evenly;
