@@ -10,6 +10,16 @@ body{
      background-blend-mode: darken; 
     /* background-blend-mode: color-burn; */
 }
+.row button{
+    background-color: #a4f0c2;
+    margin-right: 40%;
+    margin-top: 10%;
+}
+.row button:hover{
+    
+    background-color: #35b367;
+    cursor: pointer;
+}
 header {
     position: fixed;
     top: 0;

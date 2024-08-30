@@ -103,3 +103,12 @@ span:hover
 .row img{
     border-radius: 30%;
 }
+/* Small screens */
+@media(max-width:1000px){
+    
+
+}
+/* Mobile Screen */
+@media(max-width:400px){
+    
+}
